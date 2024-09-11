@@ -13,3 +13,7 @@ docker.getcollate.io/openmetadata/postgresql:1.4.8
 docker.getcollate.io/openmetadata/server:1.4.8
 docker.getcollate.io/openmetadata/ingestion:1.4.8
 
+thingsboard/openjdk17:bookworm-slim
+thingsboard/haproxy-certbot:2.2.33-alpine
+thingsboard/tb-js-executor:3.7.0
+thingsboard/tb-lwm2m-transport:3.7.0
