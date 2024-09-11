@@ -24,3 +24,10 @@ thingsboard/tb-snmp-transport:3.7.0
 thingsboard/tb-monitoring:3.7.0
 thingsboard/tb-mqtt-transport:3.7.0
 thingsboard/tb-http-transport:3.7.0
+thingsboard/tb-web-ui:3.7.0
+
+bitnami/redis:7.2
+postgres:15
+cassandra:4.1
+bitnami/kafka:3.7.0
+zookeeper:3.8.0
